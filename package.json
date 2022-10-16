@@ -1,0 +1,39 @@
+{
+  "name": "ohohoh",
+  "version": "1.0.0",
+  "description": "Rishabh's website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "preetier": "preetier -write .",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhSinha07/ohohoh.git"
+  },
+  "keywords": [],
+  "author": "Rishabh Sinha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RishabhSinha07/ohohoh/issues"
+  },
+  "homepage": "https://github.com/RishabhSinha07/ohohoh#readme",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.11",
+    "@chakra-ui/react": "^2.3.5",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "framer-motion": "^7.5.3",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-next": "^12.3.1",
+    "prettier": "^2.7.1"
+  }
+}
